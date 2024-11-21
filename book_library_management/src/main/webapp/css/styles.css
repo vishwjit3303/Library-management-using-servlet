@@ -1,0 +1,64 @@
+/* Background styling */
+body {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+h1, h2{
+	color:BLACK;
+}
+
+.bg-book{
+	background-color: #FFB9D2;
+	width:fit-content;
+	padding:10px;
+	border-radius:20px;
+	margin-left:10px
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: rgb(192, 192, 192);
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+td {
+    padding: 8px;
+    text-align: left;
+
+}
+
+th {
+    padding: 8px;
+    text-align: left;
+    background-color: #FFB9D2;
+    color: #000; 
+}
+
+/* Button styling */
+.btn {
+    margin: 5px;
+    padding: 10px 15px;
+    color: white;
+    text-decoration: none;
+    background-color: #E85F17;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
