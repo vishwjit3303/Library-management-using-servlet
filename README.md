@@ -93,8 +93,16 @@ cd book-library-management
 
 ---
 
--Output
-- <img src = "" alt = "project 1 image"> 
+- Output
+- <img src = "output screenshots/s6.png" alt = "1 image"> 
+- <img src = "output screenshots/s7.png" alt = "2 image"> 
+- <img src = "output screenshots/s8.png" alt = "3 image"> 
+- <img src = "output screenshots/s5.png" alt = "4 image"> 
+- <img src = "output screenshots/s4.png" alt = "5 image"> 
+- <img src = "output screenshots/s3.png" alt = "6 image"> 
+- <img src = "output screenshots/s2.png" alt = "7 image"> 
+- <img src = "output screenshots/s1.png" alt = "8 image"> 
+
 
 ## Usage  
 1. **Admin:**  
