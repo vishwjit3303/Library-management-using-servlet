@@ -93,6 +93,9 @@ cd book-library-management
 
 ---
 
+-Output
+- <img src = "" alt = "project 1 image"> 
+
 ## Usage  
 1. **Admin:**  
    - Add books and borrowers.  
